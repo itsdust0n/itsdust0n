@@ -1,4 +1,6 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/items/2459330/85cfbc49694b42b562a7dccaa04bf0366f1f03ee.png" width="100"/>
+</div>
 
 <!--
 **itsdust0n/itsdust0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
