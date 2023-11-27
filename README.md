@@ -6,8 +6,8 @@
 
 📊 Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=itsdust0n&show_icons=true&theme=dark) 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itsdust0n&theme=dark) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=itsdust0n&show_icons=true&theme=dark)    ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itsdust0n&theme=dark) 
+
 
 <!--
 **itsdust0n/itsdust0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
