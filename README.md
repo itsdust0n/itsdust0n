@@ -4,9 +4,11 @@
 
 ---
 
-📊 Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=itsdust0n&show_icons=true&theme=dark)    ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itsdust0n&theme=dark) 
+<div id="stats" align="center">
+<!--   📊 Stats </br></br> -->
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=itsdust0n&show_icons=true&theme=dark">
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=itsdust0n&theme=dark">
+</div>
 
 
 <!--
