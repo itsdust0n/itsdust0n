@@ -3,10 +3,9 @@
 </div>
 
 ---
-</br>
 
 <div id="stats" align="center">
-<!--   📊 Stats </br></br> -->
+  <h3>📊 Stats</h3>
   <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=itsdust0n&show_icons=true&theme=dark">
   <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=itsdust0n&theme=dark">
 </div>
