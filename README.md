@@ -10,6 +10,29 @@
   <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=itsdust0n&theme=dark">
 </div>
 
+---
+
+<div id="vacation-calendar" align="center">
+  <h3>🏝 Vacation Calendar (2024)</h3>
+  <p>Follow updates on <a href="https://instagram.com/itsdust0n">my Instagram</a></p>
+  <table>
+    <thead>
+      <tr>
+        <th>Destination</th>
+        <th>From</th>
+        <th>Until</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Dubai</td>
+        <td>13 February</td>
+        <td>21 February</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 
 <!--
 **itsdust0n/itsdust0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
