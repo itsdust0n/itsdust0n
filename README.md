@@ -29,6 +29,16 @@
         <td>13 February</td>
         <td>21 February</td>
       </tr>
+      <tr>
+        <td>Phuket</td>
+        <td>xx xxxx</td>
+        <td>xx xxxx</td>
+      </tr>
+      <tr>
+        <td>Bangkok</td>
+        <td>xx xxxx</td>
+        <td>xx xxxx</td>
+      </tr>
     </tbody>
   </table>
 </div>
