@@ -30,7 +30,7 @@
         <td>21 February</td>
       </tr>
       <tr>
-        <td>Phuket</td>
+        <td>Khao Lak</td>
         <td>xx xxxx</td>
         <td>xx xxxx</td>
       </tr>
