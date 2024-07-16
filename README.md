@@ -31,13 +31,13 @@
       </tr>
       <tr>
         <td>Khao Lak</td>
-        <td>xx xxxx</td>
-        <td>xx xxxx</td>
+        <td>24 July</td>
+        <td>29 July</td>
       </tr>
       <tr>
         <td>Bangkok</td>
-        <td>xx xxxx</td>
-        <td>xx xxxx</td>
+        <td>29 July</td>
+        <td>04 August</td>
       </tr>
     </tbody>
   </table>
