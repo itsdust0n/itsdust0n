@@ -46,7 +46,6 @@
 <div id="vacation-calendar" align="center">
   <h3>🏝 Vacation Calendar (2025)</h3>
   <p>Follow updates on <a href="https://instagram.com/itsdust0n">my Instagram</a></p>
-  <p><i>Old vacation calendars will be available in <a href="https://github.com/itsdust0n/itsdust0n">in repo</i>.</a></p>
   <table>
     <thead>
       <tr>
@@ -63,6 +62,7 @@
       </tr>
     </tbody>
   </table>
+  <p><i>Old vacation calendars will be available in <a href="https://github.com/itsdust0n/itsdust0n">repo</i>.</a></p>
 </div>
 
 
