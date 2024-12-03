@@ -43,6 +43,28 @@
   </table>
 </div>
 
+<div id="vacation-calendar" align="center">
+  <h3>🏝 Vacation Calendar (2025)</h3>
+  <p>Follow updates on <a href="https://instagram.com/itsdust0n">my Instagram</a></p>
+  <p><i>Old vacation calendars will be available in <a href="https://github.com/itsdust0n/itsdust0n">in repo</i>.</a></p>
+  <table>
+    <thead>
+      <tr>
+        <th>Destination</th>
+        <th>From</th>
+        <th>Until</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Istanbul</td>
+        <td>07 January</td>
+        <td>14 January</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 
 <!--
 **itsdust0n/itsdust0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
