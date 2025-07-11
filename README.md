@@ -29,6 +29,11 @@
         <td>07 January</td>
         <td>14 January</td>
       </tr>
+      <tr>
+        <td>Hong Kong</td>
+        <td>16 July</td>
+        <td>30 July</td>
+      </tr>
     </tbody>
   </table>
   <p><i>Old vacation calendars will be available in <a href="https://github.com/itsdust0n/itsdust0n">repo</i>.</a></p>
